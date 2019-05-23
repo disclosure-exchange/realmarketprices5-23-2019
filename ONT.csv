@@ -1,0 +1,4 @@
+exchange,market,best bid (USD),bid depth (ONT), best ask (USD),ask depth (ONT), market price (USD),total depth (ONT)
+liquid,ONT/USD,0.8,1.81112456,650.0,50.0,627.3063782278961,51.81112456
+qryptos,ONT/USD,0.8,1.81112456,650.0,50.0,627.3063782278961,51.81112456
+quoinex,ONT/USD,0.8,1.81112456,650.0,50.0,627.3063782278961,51.81112456
